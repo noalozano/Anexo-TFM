@@ -348,4 +348,4 @@ Aquí aparecen todas las tablas del Anexo con su correspondiente pie de figura, 
 | COV121245  | XBB.1.5    | 1          | 26/10/2023  |
 
 
-
+<div style="text-align: justify;">
