@@ -1,4 +1,4 @@
-Aquí aparecen todas las tablas del Anexo con su correspondiente pie de figura, a excepción de las Tabla 6 y 7 debido al volumen de las mismas que únicamente se han adjuntado en formato Excel.
+Aquí aparecen todas las tablas del Anexo con su correspondiente pie de figura, a excepción de las Tabla 6 y 7 debido al volumen de las mismas que únicamente se han adjuntado en formato Excel, y sólo se muestra su pie de figura.
 
 
 
@@ -346,6 +346,14 @@ Aquí aparecen todas las tablas del Anexo con su correspondiente pie de figura, 
 | PND164     | XBB.1.4    | 1          | 17/01/2024  |
 | PND165     | XBB.1.4    | 1          | 31/01/2024  |
 | COV121245  | XBB.1.5    | 1          | 26/10/2023  |
+
+
+**Tabla 6. Listado de mutaciones genéticas identificadas en las muestras analizadas con la plataforma Illumina.** Las columnas incluyen la identificación de la muestra, la posición genómica, el nucleótido de referencia, el nucleótido alterado, el gen afectado, la expresión nucleotídica, la expresión aminoacídica resultante, y la abreviatura del cambio aminoacídico correspondiente.
+
+
+**Tabla 7. Listado de mutaciones genéticas identificadas en las muestras analizadas con la plataforma Nanopore.** Las columnas incluyen la identificación de la muestra, la posición genómica, el nucleótido de referencia, el nucleótido alterado, el gen afectado, la expresión nucleotídica, la expresión aminoacídica resultante, y la abreviatura del cambio aminoacídico correspondiente.
+
+
 
 
 <div style="text-align: justify;">
